@@ -1,4 +1,7 @@
 # HTML-Games-Offline
+
+*EXTREMELY IMPORTANT, DON'T JUST CREATE SEPERATE `saves` FOLDERS, JUST CREATE ONE SAVES FODLER FOR ALL GAME YOU'RE DOWNLOADING FROM THIS REPO AND WRITE THE PATH TO THAT FOLDER IN THE BAT FILES FOR EACH GAME!!!*
+
 *Look inside the game files for instructions to run, the file will be called `README.txt`*
 
 *NONE OF THESE GAMES ARE MINE, I SOURCED THEM FROM OTHER REPOS AND ADDED THEM HERE AND ADDED SOME EXTRA STUFF TO IT, LIKE LAUNCHERS AND A BROWSER TO OPEN THE GAMES IN, WHICH IS WOOLYSS CHROMIUM!!!!*
@@ -8,4 +11,4 @@
 
 *I'm going to stop posting the Chromiumbrowser in every game, because it'll take up too much of my gitLFS space if I do so, instead I'm just posting one, called `!Chromium-64 bit-ver 149`, in here.*
 
-*CONTACT ME AT `kmoruihrdp@hotmail.com` FOR FEEDBACK, SUGGESTIONS OR TROUBLESHOOTING!!*
+*CONTACT ME AT `kmoruihrdp@hotmail.com` FOR FEEDBACK, SUGGESTIONS, TROUBLESHOOTING OR IF YOU WANT YOUR GAME TAKEN OFF THIS REPO!!*
